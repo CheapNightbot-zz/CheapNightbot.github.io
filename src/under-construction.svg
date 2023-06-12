@@ -1,9 +1,9 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 1280 720'
+    viewBox='0 0 560 80'
     style='background-color: #00000000;'
-    width='1280px' height='720px'>
+    width='560px' height='80px'>
 
     <style>
 @font-face {
@@ -18,8 +18,8 @@
                 <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d1.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,360 h0 ; m0,360 h1280 ; m0,360 h1280 ; m0,360 h0' keyTimes='0;0.64;0.84;1' />
+                    dur='4500ms' fill='remove'
+                    values='m0,40 h0 ; m0,40 h560 ; m0,40 h560 ; m0,40 h0' keyTimes='0;0.71111111111111;0.82222222222222;1' />
                     </path>
     <text font-family='"Rubik Glitch", monospace' fill='#F70000' font-size='50'
         dominant-baseline='middle'
@@ -31,8 +31,8 @@
         <path id='path1'>
                             <!-- Single line -->
                                 <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,360 h0 ; m0,360 h1280 ; m0,360 h1280 ; m0,360 h0' keyTimes='0;0.64;0.84;1' />
+                    dur='4500ms' fill='remove'
+                    values='m0,40 h0 ; m0,40 h560 ; m0,40 h560 ; m0,40 h0' keyTimes='0;0.71111111111111;0.82222222222222;1' />
                     </path>
     <text font-family='"Rubik Glitch", monospace' fill='#F70000' font-size='50'
         dominant-baseline='middle'
