@@ -1,0 +1,13 @@
+/* Set the margin of the body element to 0, removing any default spacing */
+body {
+    margin: 0;
+    overflow: hidden; /* Hide any content that exceeds the dimensions of the body */
+}
+
+/* Style the canvas element for the matrix effect */
+canvas {
+    position: absolute; /* Position the canvas element relative to its nearest positioned ancestor */
+    top: 0; /* Position the canvas at the top of its container */
+    left: 0; /* Position the canvas at the left edge of its container */
+    z-index: -1; /* Set a negative z-index to place the canvas behind other elements */
+}
