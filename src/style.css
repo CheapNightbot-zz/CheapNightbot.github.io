@@ -2,6 +2,7 @@
 body {
     margin: 0;
     overflow: hidden; /* Hide any content that exceeds the dimensions of the body */
+    cursor: not-allowed;
 }
 
 /* Style the canvas element for the matrix effect */
@@ -11,3 +12,16 @@ canvas {
     left: 0; /* Position the canvas at the left edge of its container */
     z-index: -1; /* Set a negative z-index to place the canvas behind other elements */
 }
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
